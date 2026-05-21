@@ -52,8 +52,4 @@ while True:
         save_tasks(tasks)
 
     elif choice == "4":
-        break
-  </body>
-  </head>
-git checkout main
-git merge feature/login
+        break;
